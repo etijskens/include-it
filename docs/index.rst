@@ -7,7 +7,10 @@ Welcome to include-it's documentation!
    :caption: Contents:
 
    readme
+   installation
    api
+   authors
+   history
 
 ##################
 Indices and tables
